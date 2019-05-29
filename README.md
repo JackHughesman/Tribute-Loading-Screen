@@ -3,6 +3,7 @@ This loading screen was made as a tribute to all first responders, although only
 
 # How to install
 
+
 1. Download and extract the files into your resources folder
 
 2 Open the server.cfg and add the following:
